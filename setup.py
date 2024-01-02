@@ -44,7 +44,7 @@ setup(
         "scikit-learn==1.3.0",
         "kaggle==1.5.16",
         "opencv-python==4.8.1.78",
-        "tensorflow-gpu==2.6.0-beta0",
+        "tensorflow-gpu==2.10.0",
         "tensorflow-probability==0.23.0",
         "tensorflow-datasets==1.2.0",
     ],
